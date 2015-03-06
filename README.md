@@ -7,3 +7,5 @@ You can find the star image at the link provided or get it from "plugins/WooComm
 
 This code is available for anyone still having duplication issues with WooCommerce stars after trying the code provided by WooThemes.
 
+This code should be added to your custom.css or, if you have child theme, the style.css.
+
