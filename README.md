@@ -5,5 +5,5 @@ The original code can be found here: https://support.woothemes.com/hc/en-us/arti
 
 You can find the star image at the link provided or get it from "plugins/WooCommerce/assets/images" and place it in your themes "images" folder.
 
-This code is available for anyone still having duplication issues with WooCommerce stars.
+This code is available for anyone still having duplication issues with WooCommerce stars after trying the code provided by WooThemes.
 
